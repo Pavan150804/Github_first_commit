@@ -2,7 +2,8 @@ package tests;
 
 public class homeTest {
 	public static void main(String[] args) {
-		System.out.println("home test");
+		String s="Home test";
+		System.out.println(s);
 	}
 
 }
